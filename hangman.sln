@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hangman", "hangman\hangman.csproj", "{FA213806-3F97-4485-9DA1-DD4AB765FE18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8BF23D21-940F-4FC4-B5CE-F851EFA6C435}"
+	ProjectSection(SolutionItems) = preProject
+		hangman\1.jpg = hangman\1.jpg
+		hangman\bin\1.jpg = hangman\bin\1.jpg
+		hangman\2.jpg = hangman\2.jpg
+		hangman\bin\2.jpg = hangman\bin\2.jpg
+		hangman\3.jpg = hangman\3.jpg
+		hangman\bin\3.jpg = hangman\bin\3.jpg
+		hangman\4.jpg = hangman\4.jpg
+		hangman\bin\4.jpg = hangman\bin\4.jpg
+		hangman\5.jpg = hangman\5.jpg
+		hangman\bin\5.jpg = hangman\bin\5.jpg
+		hangman\6.jpg = hangman\6.jpg
+		hangman\bin\6.jpg = hangman\bin\6.jpg
+		hangman\7.jpg = hangman\7.jpg
+		hangman\bin\7.jpg = hangman\bin\7.jpg
+		hangman\8.jpg = hangman\8.jpg
+		hangman\bin\8.jpg = hangman\bin\8.jpg
+		hangman\cicek1.jpg = hangman\cicek1.jpg
+		hangman\bin\cicek1.jpg = hangman\bin\cicek1.jpg
+		hangman\cicek10.jpg = hangman\cicek10.jpg
+		hangman\bin\cicek10.jpg = hangman\bin\cicek10.jpg
+		hangman\cicek11.jpg = hangman\cicek11.jpg
+		hangman\bin\cicek11.jpg = hangman\bin\cicek11.jpg
+		hangman\cicek12.jpg = hangman\cicek12.jpg
+		hangman\bin\cicek12.jpg = hangman\bin\cicek12.jpg
+		hangman\cicek2.jpg = hangman\cicek2.jpg
+		hangman\bin\cicek2.jpg = hangman\bin\cicek2.jpg
+		hangman\cicek3.jpg = hangman\cicek3.jpg
+		hangman\bin\cicek3.jpg = hangman\bin\cicek3.jpg
+		hangman\cicek4.jpg = hangman\cicek4.jpg
+		hangman\bin\cicek4.jpg = hangman\bin\cicek4.jpg
+		hangman\cicek5.jpg = hangman\cicek5.jpg
+		hangman\bin\cicek5.jpg = hangman\bin\cicek5.jpg
+		hangman\cicek6.jpg = hangman\cicek6.jpg
+		hangman\bin\cicek6.jpg = hangman\bin\cicek6.jpg
+		hangman\cicek7.jpg = hangman\cicek7.jpg
+		hangman\bin\cicek7.jpg = hangman\bin\cicek7.jpg
+		hangman\cicek8.jpg = hangman\cicek8.jpg
+		hangman\bin\cicek8.jpg = hangman\bin\cicek8.jpg
+		hangman\cicek9.jpg = hangman\cicek9.jpg
+		hangman\bin\cicek9.jpg = hangman\bin\cicek9.jpg
+		hangman\man-01.jpg = hangman\man-01.jpg
+		hangman\bin\man-01.jpg = hangman\bin\man-01.jpg
+		hangman\man-02.jpg = hangman\man-02.jpg
+		hangman\bin\man-02.jpg = hangman\bin\man-02.jpg
+		hangman\man-03.jpg = hangman\man-03.jpg
+		hangman\bin\man-03.jpg = hangman\bin\man-03.jpg
+		hangman\man-04.jpg = hangman\man-04.jpg
+		hangman\bin\man-04.jpg = hangman\bin\man-04.jpg
+		hangman\man-05.jpg = hangman\man-05.jpg
+		hangman\bin\man-05.jpg = hangman\bin\man-05.jpg
+		hangman\man-06.jpg = hangman\man-06.jpg
+		hangman\bin\man-06.jpg = hangman\bin\man-06.jpg
+		hangman\man-07.jpg = hangman\man-07.jpg
+		hangman\bin\man-07.jpg = hangman\bin\man-07.jpg
+		hangman\man-08.jpg = hangman\man-08.jpg
+		hangman\bin\man-08.jpg = hangman\bin\man-08.jpg
+		hangman\man-09.jpg = hangman\man-09.jpg
+		hangman\bin\man-09.jpg = hangman\bin\man-09.jpg
+		hangman\man-10.jpg = hangman\man-10.jpg
+		hangman\bin\man-10.jpg = hangman\bin\man-10.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA213806-3F97-4485-9DA1-DD4AB765FE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA213806-3F97-4485-9DA1-DD4AB765FE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA213806-3F97-4485-9DA1-DD4AB765FE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA213806-3F97-4485-9DA1-DD4AB765FE18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
